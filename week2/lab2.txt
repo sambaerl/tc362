@@ -1,0 +1,8 @@
+LAB 2 LOGIN INFO
+
+ssh lindsy@162.209.99.11 -p 22984
+password: sambaer
+
+ssh jeff@162.209.99.11 -p 22984
+password: siarto
+
